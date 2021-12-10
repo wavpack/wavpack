@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;:musical_score: &nbsp;Trained in conservatory for Music Theory, Piano Performance, & Algorithmic Composition\
 &nbsp;&nbsp;&nbsp;:computer: &nbsp;Experienced in coding since 2013 with beginnings in C & Common Lisp\
 &nbsp;&nbsp;&nbsp;:open_file_folder: &nbsp;Motivated about Open-Source Technologies & Open-Source Initiatives\
-&nbsp;&nbsp;&nbsp;:sparkle: &nbsp;Inspired by pure programming practices & beautiful web aesthetics\
+&nbsp;&nbsp;&nbsp;:sparkle: &nbsp;Inspired by pure programming practices & beautiful web aesthetics
 
 <br>
 <h2 align='center'></h2>
